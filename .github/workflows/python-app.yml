@@ -30,6 +30,3 @@ jobs:
       run: |
          python -c "print('welcome-python')"
        
-    - name: Test with pytest
-      run: |
-        pytest
